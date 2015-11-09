@@ -18,9 +18,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window = UIWindow(frame: UIScreen.mainScreen().bounds)
         
         // Use the login controller as the root view controller
-        let loginViewControllerTheme1 = LoginViewControllerTheme1()
+        let loginViewControllerTheme2 = LoginViewControllerTheme2()
         
-        window?.rootViewController = loginViewControllerTheme1
+        window?.rootViewController = loginViewControllerTheme2
         window?.makeKeyAndVisible()
         
         return true

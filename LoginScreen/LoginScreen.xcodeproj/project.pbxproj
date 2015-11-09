@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3532B43B1BEE1DC500D70D45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3532B43A1BEE1DC500D70D45 /* Assets.xcassets */; };
+		3541C40C1BEFD5BC00745E93 /* LoginViewControllerTheme2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3541C40B1BEFD5BC00745E93 /* LoginViewControllerTheme2.swift */; };
 		35C713D41BEA5E580029151D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C713D31BEA5E580029151D /* AppDelegate.swift */; };
 		35C713D61BEA5E580029151D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C713D51BEA5E580029151D /* ViewController.swift */; };
 		35C713D91BEA5E580029151D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35C713D71BEA5E580029151D /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		3532B43A1BEE1DC500D70D45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3541C40B1BEFD5BC00745E93 /* LoginViewControllerTheme2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewControllerTheme2.swift; sourceTree = "<group>"; };
 		35C713D01BEA5E580029151D /* LoginScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35C713D31BEA5E580029151D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		35C713D51BEA5E580029151D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				35C713D31BEA5E580029151D /* AppDelegate.swift */,
+				3541C40B1BEFD5BC00745E93 /* LoginViewControllerTheme2.swift */,
 				35F905821BEA663700D52806 /* LoginViewControllerTheme1.swift */,
 				35C713D51BEA5E580029151D /* ViewController.swift */,
 				3532B43A1BEE1DC500D70D45 /* Assets.xcassets */,
@@ -338,6 +341,7 @@
 				35F905831BEA663700D52806 /* LoginViewControllerTheme1.swift in Sources */,
 				35C713D61BEA5E580029151D /* ViewController.swift in Sources */,
 				35C713D41BEA5E580029151D /* AppDelegate.swift in Sources */,
+				3541C40C1BEFD5BC00745E93 /* LoginViewControllerTheme2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
