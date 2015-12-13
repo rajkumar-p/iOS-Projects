@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'DoneAnimation' do
+  pod 'JNWSpringAnimation'
+end
+
+target 'DoneAnimationTests' do
+
+end
+
+target 'DoneAnimationUITests' do
+
+end
+
